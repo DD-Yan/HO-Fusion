@@ -1,9 +1,9 @@
-<img width="3028" height="928" alt="fusion_framework_overview" src="https://github.com/user-attachments/assets/80a4396a-6e20-49b2-8998-7848781526d5" /><img width="3028" height="928" alt="fusion_framework_overview" src="https://github.com/user-attachments/assets/6296aad4-d968-4b99-a4ad-ab5f1b7d626f" /># HO-Fusion
+# HO-Fusion
 HO-Fusion: Multisensor Fusion Localization Using Factor Graph Optimization and Error-State Kalman Filter for Hash-Octree LiDAR-Inertial Odometry
 
 ---
 ## System Architecture
-
+<img width="3028" height="928" alt="fusion_framework_overview" src="https://github.com/user-attachments/assets/80a4396a-6e20-49b2-8998-7848781526d5" />
 
 ---
 ## Menu
